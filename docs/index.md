@@ -1,4 +1,8 @@
-layout: default
-title: MAIN
+---
+title: Home
+layout: home
+nav_order: 1
+---
 
-MAIN FILE
+hello im the index!
+there is no actual link to this page in the menu
