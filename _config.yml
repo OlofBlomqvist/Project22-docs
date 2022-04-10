@@ -2,7 +2,7 @@ title: Project22
 email: olof@twnet.se
 description: this is a test
 baseurl: "/Project22-docs"
-url: "twnet.se"
+url: "http://twnet.se"
 github_username:  olofblomqvist
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
